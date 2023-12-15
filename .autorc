@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "wofly98",
+  "repo": "container-gpnztz8",
+  "name": "wofly98",
+  "email": "wofly98@gmail.com",
+}
